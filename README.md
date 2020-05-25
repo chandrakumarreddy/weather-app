@@ -1,10 +1,9 @@
 ![Finished app UI](https://github.com/chandrakumarreddy/weather-app-/blob/master/public/finalappui.png)
 
-<div style="text-align:center">
-
+<div align="center">
 View Complete Installation details.
 
-View Live demo.
+[View Live demo.](weather-app-bay-chi.now.sh)
 
 </div>
 
