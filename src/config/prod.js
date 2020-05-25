@@ -1,3 +1,3 @@
 export default {
-  key: "",
+  key: process.env.KEY,
 };
