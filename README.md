@@ -1,4 +1,4 @@
-![Finished app UI](http://url/to/img.png)
+![Finished app UI](https://github.com/chandrakumarreddy/weather-app-/blob/master/public/finalappui.png)
 
 <div style="text-align:center">
 
